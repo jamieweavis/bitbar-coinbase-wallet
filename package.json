@@ -1,0 +1,42 @@
+{
+  "name": "bitbar-coinbase-wallet",
+  "description": "Coinbase wallet and cryptocurrency price tracker for BitBar",
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/jamiestraw/bitbar-coinbase-wallet/issues"
+  },
+  "contributors": [
+    {
+      "name": "James Dempster"
+    },
+    {
+      "name": "Jamie Straw"
+    }
+  ],
+  "dependencies": {
+    "coinbase": "^2.0.6"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "homepage": "https://github.com/jamiestraw/bitbar-coinbase-wallet#readme",
+  "keywords": [
+    "bitbar",
+    "bitcoin",
+    "coinbase",
+    "cryptocurrencies",
+    "cryptocurrency",
+    "ethereum",
+    "litecoin",
+    "wallet"
+  ],
+  "license": "MIT",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiestraw/bitbar-coinbase-wallet.git"
+  },
+  "bin": {
+    "bitbar-coinbase-wallet": "src/app.js"
+  }
+}
