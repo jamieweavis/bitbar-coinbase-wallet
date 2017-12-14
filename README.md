@@ -1,5 +1,5 @@
 # BitBar Coinbase Wallet
-> 💰 Coinbase wallet and cryptocurrency price tracker for BitBar
+> 💰 Coinbase wallet and cryptocurrency price tracker plugin for BitBar
 
 <img src="screenshot.png" width="275">
 

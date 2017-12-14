@@ -1,6 +1,6 @@
 {
   "name": "bitbar-coinbase-wallet",
-  "description": "Coinbase wallet and cryptocurrency price tracker for BitBar",
+  "description": "Coinbase wallet and cryptocurrency price tracker plugin for BitBar",
   "version": "1.0.0",
   "bugs": {
     "url": "https://github.com/jamiestraw/bitbar-coinbase-wallet/issues"
