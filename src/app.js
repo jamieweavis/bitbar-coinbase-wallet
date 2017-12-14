@@ -17,8 +17,8 @@ async function update(myCoinbase) {
   const wallets = {}
   accounts.forEach(acct => { wallets[acct.currency] = Number(acct.balance.amount) })
 
-  let totalSpotPrice = 0;
-  let currencyRows = [];
+  let totalSpotPrice = 0
+  let currencyRows = []
 
   Object.keys(spotPriceGBP).forEach(currency => {
     if (wallets[currency]) totalSpotPrice += (spotPriceGBP[currency] * wallets[currency])
