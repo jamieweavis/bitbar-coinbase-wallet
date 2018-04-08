@@ -3,7 +3,7 @@
 
 <img src="screenshot.png" width="275">
 
-## 📦 Install
+## Installation
 
 1. Install [BitBar](https://github.com/matryer/bitbar)
 2. Clone this repository into your BitBar plugin directory
@@ -15,7 +15,7 @@
 ln -s bitbar-coinbase-wallet/src/app.js bitbar-coinbase-wallet.1m.js
 ```
 
-## 🚀 Features
+## Features
 
 - Displays your total Coinbase wallet value in the menubar
 - Displays your Coinbase wallet currency values in the dropdown
@@ -23,6 +23,6 @@ ln -s bitbar-coinbase-wallet/src/app.js bitbar-coinbase-wallet.1m.js
 - Values are in GBP - hold `alt` to view USD
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
