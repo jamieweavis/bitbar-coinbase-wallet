@@ -3,14 +3,14 @@
   "description": "Coinbase wallet and cryptocurrency price tracker plugin for BitBar",
   "version": "1.0.0",
   "bugs": {
-    "url": "https://github.com/jamiestraw/bitbar-coinbase-wallet/issues"
+    "url": "https://github.com/jamieweavis/bitbar-coinbase-wallet/issues"
   },
   "contributors": [
     {
       "name": "James Dempster"
     },
     {
-      "name": "Jamie Straw"
+      "name": "Jamie Weavis <jamie.weavis@gmail.com>"
     }
   ],
   "dependencies": {
@@ -19,7 +19,7 @@
   "engines": {
     "node": ">=7.6.0"
   },
-  "homepage": "https://github.com/jamiestraw/bitbar-coinbase-wallet#readme",
+  "homepage": "https://github.com/jamieweavis/bitbar-coinbase-wallet#readme",
   "keywords": [
     "bitbar",
     "bitcoin",
@@ -34,7 +34,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamiestraw/bitbar-coinbase-wallet.git"
+    "url": "git+https://github.com/jamieweavis/bitbar-coinbase-wallet.git"
   },
   "bin": {
     "bitbar-coinbase-wallet": "src/app.js"
